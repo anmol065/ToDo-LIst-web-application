@@ -1,0 +1,16 @@
+{
+  "name": "todolist-v1-self",
+  "version": "1.0.0",
+  "description": "Self Practice by making Todolist site by myself..",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
