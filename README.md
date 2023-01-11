@@ -1,5 +1,5 @@
 # ToDo-LIst-web-application
-A to-do list web application using JavaScript, HTML, and CSS might allow users to create a list of tasks that they need to complete. The user interface could be implemented using HTML and CSS, while the functionality of the application could be implemented using JavaScript.
+A to-do list web application built using JavaScript, Node.js, Express framework, EJS, HTML and CSS. It allows user to create, view and delete tasks for multiple lists. The user interface and styling are created using HTML and CSS while Express framework, EJS and body-parser is used for handling routing, templating and parsing of data. The application also uses a custom module to get the current day and display it as the title of the list.
 
 
 
